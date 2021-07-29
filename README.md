@@ -1,6 +1,6 @@
 # SteamGroupGameChecker - Tool to find out common steam games between users
 
- ⛔ PLEASE NOTE: this was mostly a fun project for me to keep up skills and learn new things.
+ ⛔ PLEASE NOTE: a working version of this can be found hosted on AWS <a href="https://www.steamgroupgamechecker.co.uk/">here</a>
 
 ## Rationale for development
 
