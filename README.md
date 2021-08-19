@@ -1,6 +1,11 @@
+
 # SteamGroupGameChecker - Tool to find out common steam games between users
 
  ⛔ PLEASE NOTE: a working version of this can be found hosted on AWS <a href="https://www.steamgroupgamechecker.co.uk/">here</a>
+ 
+ ## AWS architecture diagram
+ 
+ ![SGGC Diagram](https://user-images.githubusercontent.com/35812795/130128397-ccf18d63-1732-470a-bba7-fb027b5aefac.png)
 
 ## Rationale for development
 
